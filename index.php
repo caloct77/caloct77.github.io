@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-Calvin's portfolio
+<title>Calvin's portfolio</title>
 </head>
 <body>
 <img src="img/android.PNG" alt="Girl in a jacket" width="500" height="600"> 
